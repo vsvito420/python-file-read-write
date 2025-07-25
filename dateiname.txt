@@ -1,0 +1,4 @@
+test
+Dies ist eine Testdatei.
+Dies ist eine weitere Zeile.
+ä
